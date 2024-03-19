@@ -1,0 +1,69 @@
+{
+    "intents": [
+      {
+        "tag": "greeting",
+        "patterns": [
+          "Hi",
+          "Hey",
+          "How are you?",
+          "Is anyone there",
+          "Hello",
+          "Whats up?"
+        ],
+        "responses": [
+          "Hey",
+          "Hello, thanks for visiting",
+          "Hi there, what can I help you with?",
+          "Hi there, how can I help you?"
+        ]
+      },
+      {
+        "tag": "dating_advice",
+        "patterns": [
+          "How can I start a conversation on a first date?",
+          "What are signs that someone likes me?",
+          "How do I handle an awkward silence?",
+          "Is it okay to talk about past relationships?",
+          "What can I do to make a good impression?",
+          "How do I know if it's the right time to kiss?",
+          "What should I do if I'm nervous before a date?",
+          "How can I show interest without being too forward?",
+          "How can I pick up girls?"
+        ],
+        "responses": [
+          "Ask about their interests or hobbies.",
+          "Compliment something about them.",
+          "Share a funny or interesting story.",
+          "Discuss a recent event or news topic.",
+          "They maintain eye contact and smile.",
+          "They ask follow-up questions and engage in conversation.",
+          "They initiate contact (text/call) after the date.",
+          "They make plans for future meetings.",
+          "Ask open-ended questions to keep the conversation going.",
+          "Share something interesting about yourself.",
+          "Use humor to lighten the mood.",
+          "Suggest changing the topic to something more comfortable.",
+          "Avoid discussing past relationships on a first date.",
+          "Focus on getting to know each other's present interests and goals.",
+          "Save deeper conversations for later dates if the relationship progresses.",
+          "Be yourself and show genuine interest in the other person.",
+          "Dress appropriately and maintain good manners.",
+          "Listen actively and avoid controversial topics.",
+          "Follow up with a thank-you message after the date.",
+          "Pay attention to body language and cues from the other person.",
+          "Consider the mood and atmosphere of the date.",
+          "If there's mutual attraction and comfort, it may be the right moment.",
+          "Communicate openly and respectfully to gauge their feelings.",
+          "Take deep breaths and practice relaxation techniques.",
+          "Remind yourself of your positive qualities and strengths.",
+          "Focus on enjoying the moment and getting to know the other person.",
+          "Consider talking to a friend or doing a calming activity beforehand.",
+          "Ask thoughtful questions and actively listen to their responses.",
+          "Show genuine curiosity about their life, hobbies, and experiences.",
+          "Compliment them sincerely and respectfully.",
+          "Respect their boundaries and avoid pressuring or rushing the relationship."
+        ]
+      }
+    ]
+  }
+  
